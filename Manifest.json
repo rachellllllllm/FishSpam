@@ -1,0 +1,15 @@
+{
+  "name": "FishSpam",
+  "description": "Spam /fish1 prefix command 5x every 7s",
+  "authors": [
+    {
+      "name": "Jayden",
+      "id": "your_discord_id_here_if_you_want" 
+    }
+  ],
+  "main": "FishSpam.plugin.js",
+  "vendetta": {
+    "icon": "ic_badge_staff"
+  },
+  "version": "0.2.1"
+}
